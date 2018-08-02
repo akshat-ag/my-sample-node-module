@@ -2,7 +2,7 @@
   "name": "first-sample-node-module-for-akshat_ag",
   "version": "1.0.1",
   "description": "Sample node module",
-  "main": "index.js",
+  "main": "source/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel source --presets babel-preset-es2015 --out-dir distribution"
