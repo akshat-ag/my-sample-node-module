@@ -4,9 +4,9 @@ export default function calculatePercentage(percent=100, amount) {
 }
 
 export class Foo {
-    // state = {
-    //     test: 1
-    // };
+    state = {
+        test: 1
+    };
 
     doSomething = () => {
         const test = {
