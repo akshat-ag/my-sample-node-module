@@ -12,5 +12,6 @@ export class Foo {
         const test = {
             ...this.state
         };
+        return test;
     }
 }
