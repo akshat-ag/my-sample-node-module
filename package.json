@@ -1,6 +1,6 @@
 {
   "name": "first-sample-node-module-for-akshat_ag",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Sample node module",
   "main": "source/index.js",
   "scripts": {
