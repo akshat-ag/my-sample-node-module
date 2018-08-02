@@ -1,0 +1,21 @@
+{
+  "name": "first-sample-node-module-for-akshat_ag",
+  "version": "1.0.1",
+  "description": "Sample node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel source --presets babel-preset-es2015 --out-dir distribution"
+  },
+  "keywords": [
+    "Sample",
+    "node",
+    "module"
+  ],
+  "author": "Akshat-Agarwal",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
